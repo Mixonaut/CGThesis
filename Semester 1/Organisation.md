@@ -22,10 +22,12 @@ This file details a rough timeline of the work I completed in the first semester
  - Submitted Ethics Form soon after.
  
  ## Proposal/Prototype Implementation 23/10/25 - 20/11/25 
- - Worked on the proposal document during this time. 
+ - Worked on the proposal document during this time.
+**Weeks 7-10**
  - Started with background research for about a week (23-10/25 - 02/11/25) to gather information before proposal could be fully started.
  - This information was used for most of the sections.
  - Worked on my prototype at the same time, using documentation and various tutorials on Unity to complete it by about 15/11/25
+**Weeks 10-11**
  - Project was submitted for final feedback for any glaring issues on the 19/11/2025 and fixed accordingly
  - Video (D2) made before submission on roughly the same day
  - Both submitted 20/11/25
