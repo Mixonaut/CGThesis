@@ -7,5 +7,5 @@ This is the working repository for my thesis project.
 CGThesis
 ├── Semester 1/
 │   ├── /Proposal        #Thesis Proposal .zip and pdf
-|   ├── Organisation.md  #Logbook for first part of project.
+|   ├── Logbook.md  #Logbook for first part of project.
 ```
